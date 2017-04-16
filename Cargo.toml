@@ -1,0 +1,8 @@
+[package]
+name = "hilbert-curve"
+version = "0.1.0"
+authors = ["Steve Dignam <steve@dignam.xyz>"]
+
+[dependencies]
+turtle = "0.1.1"
+itertools = "0.6.0"
